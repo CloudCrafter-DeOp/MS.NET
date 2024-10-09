@@ -102,5 +102,4 @@
 
 Ниже представлена диаграмма базы данных, демонстрирующая связи между сущностями:
 
-![ER-диаграмма](![ER-Dg](https://github.com/user-attachments/assets/eb07eba7-187d-4c5d-bbe2-90067c5a335a)
-)
+![ER-Dg](https://github.com/user-attachments/assets/eb07eba7-187d-4c5d-bbe2-90067c5a335a)
